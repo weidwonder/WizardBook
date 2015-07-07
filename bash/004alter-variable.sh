@@ -15,5 +15,6 @@ var="weid"
 echo ${var:+"This is default value"}
 echo "4 - Value of var is ${var}"
 
-${var:?"Print this message"}
+unset var
+echo ${var:?"Print this message"}
 echo "5 - Value of var is ${var}"
