@@ -1,4 +1,4 @@
-# gramma:
+# gramma:(only)
 # for <variable> in <list>
 # do
 # 	command1
