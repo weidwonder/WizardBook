@@ -1,0 +1,3 @@
+.idea
+*.pyc
+/00numpy&matplotlib/*.png

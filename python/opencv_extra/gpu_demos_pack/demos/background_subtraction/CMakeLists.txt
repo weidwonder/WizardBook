@@ -1,0 +1,1 @@
+ocv_define_gpu_demo(background_subtraction DESCRIPTION "Background Subtraction")
